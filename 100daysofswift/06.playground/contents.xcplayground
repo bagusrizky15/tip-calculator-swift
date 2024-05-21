@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Basic Closures'/>
+        <page name='Accepting parameter in closure'/>
+        <page name='Returning value on closure'/>
+        <page name='Closures as parameters'/>
+        <page name='Trailing closure syntax'/>
+        <page name='Closure as param when they accept param'/>
+        <page name='Closure as param when they return values'/>
+        <page name='Shorthand closures'/>
+        <page name='Closures with multiple param'/>
+        <page name='Returning closures from func'/>
+        <page name='Capturing values'/>
+    </pages>
+</playground>

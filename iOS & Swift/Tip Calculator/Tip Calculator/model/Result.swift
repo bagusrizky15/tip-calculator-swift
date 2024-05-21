@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+struct Result {
+    let amountPerson: Double
+    let totalBill: Double
+    let totalTip: Double
+}

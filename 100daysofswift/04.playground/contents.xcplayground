@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='For loops'/>
+        <page name='Repeat loops'/>
+        <page name='While loops'/>
+        <page name='Exiting Multiple loops'/>
+        <page name='Exiting loops'/>
+        <page name='Skipping items'/>
+        <page name='Infinite loops'/>
+    </pages>
+</playground>
